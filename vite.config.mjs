@@ -12,7 +12,8 @@ export default defineConfig({
   ],
   rollupOptions: {
     input: {
-      'react-app': path.resolve(__dirname, 'index.react.html'),
+      'react-app': path.resolve(__dirname, 'index-react.html'),
+      'svelte-app': path.resolve(__dirname, 'index-svelte.html'),
     }
   },
 });
