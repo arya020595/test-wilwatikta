@@ -1,1 +1,5 @@
-# test-wilwatikta
+# THE ANSWER TECHNICAL TEST WILWATIKTA
+
+TO RUN PROJECT:
+1. npm install
+2. npx vite
